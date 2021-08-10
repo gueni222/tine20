@@ -7074,6 +7074,10 @@
         "css-line-break": "1.1.1"
       }
     },
+    "html5-file-selector": {
+      "version": "git+https://github.com/tine20/html5-file-selector.git#1625c2102e49f8f997e16108f6f0d5b6bfd6b2d8",
+      "from": "git+https://github.com/tine20/html5-file-selector.git"
+    },
     "htmlparser2": {
       "version": "3.10.1",
       "resolved": "https://registry.npmjs.org/htmlparser2/-/htmlparser2-3.10.1.tgz",
@@ -17779,9 +17783,9 @@
       "dev": true
     },
     "xmldom": {
-      "version": "0.1.31",
-      "resolved": "https://registry.npmjs.org/xmldom/-/xmldom-0.1.31.tgz",
-      "integrity": "sha512-yS2uJflVQs6n+CyjHoaBmVSqIDevTAWrzMmjG1Gc7h1qQ7uVozNhEPJAwZXWyGQ/Gafo3fCwrcaokezLPupVyQ==",
+      "version": "0.6.0",
+      "resolved": "https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz",
+      "integrity": "sha512-iAcin401y58LckRZ0TkI4k0VSM1Qg0KGSc3i8rU+xrxe19A/BN1zHyVSJY7uoutVlaTSzYyk/v5AmkewAP7jtg==",
       "dev": true
     },
     "xmlhttprequest-ssl": {
